@@ -5,6 +5,7 @@ Input is a file in the same directory as the .class files. Format is height of t
 and then the maze on the following lines.
 
 Ex:
+```
 5
 5
 +---+
@@ -12,6 +13,7 @@ S | E
 | | |
 |   |
 +---+
+```
 
 S signifies the start and E signifies the end. S is assumed to be along the first column. Currently the solver works,
 although output is crude. The path found is not the shortest path.
