@@ -19,4 +19,6 @@ S signifies the start and E signifies the end. S is assumed to be along the firs
 although output is crude. The path found is not the shortest path.
 
 TODO:
+
 Find the shortest path - create multiple paths, each keeping track of own state, compare # of steps to find shortest
+Print out solved path
