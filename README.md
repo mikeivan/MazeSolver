@@ -20,5 +20,5 @@ although output is crude. The path found is not the shortest path.
 
 TODO:
 
-Find the shortest path - create multiple paths, each keeping track of own state, compare # of steps to find shortest
-Print out solved path
+- [ ] Find the shortest path - create multiple paths, each keeping track of own state, compare # of steps to find shortest
+- [ ] Print out solved path
